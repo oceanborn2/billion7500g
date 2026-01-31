@@ -1,0 +1,4 @@
+#!/bin/bash
+
+perl ic2xml.pl settings.icf > settings.xml
+saxon8 -o settings.xhtml settings.xml settings.xsl

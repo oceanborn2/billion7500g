@@ -1,0 +1,31 @@
+------------------------------------------------------------------------
+r14 | pascal | 2007-12-09 22:24:40 +0100 (Sun, 09 Dec 2007) | 3 lines
+
+torrent, ktorrent
+dyndns
+dns relay
+------------------------------------------------------------------------
+r13 | pascal | 2007-12-09 22:13:03 +0100 (Sun, 09 Dec 2007) | 8 lines
+
+opendns au lieu dns wanadoo
+dhcp relay
+log filtre url
+ouverture ssh
+anubis http 8081 vers 8080
+https
+changement nom routeur de home.gateway vers anubis
+
+------------------------------------------------------------------------
+r12 | pascal | 2007-12-09 22:02:15 +0100 (Sun, 09 Dec 2007) | 6 lines
+
+20070420
+limewire
+anubis http
+ntp
+livebox
+route r?\195?\169seau
+------------------------------------------------------------------------
+r11 | pascal | 2007-12-09 21:45:20 +0100 (Sun, 09 Dec 2007) | 1 line
+
+31072006
+------------------------------------------------------------------------

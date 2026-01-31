@@ -1,0 +1,215 @@
+----------- system log buffer head --------------
+:firewall:info: 3738161.819 Blocked Prot=6, 81.249.82.4:52244 > 193.251.214.115:110, S Seq=373853753, Ack=0 -Default Defense
+
+Apr 27 21:38:41 billion:firewall:info: 3738164.819 Blocked Prot=6, 81.249.82.4:52244 > 193.251.214.115:110, S Seq=373853753, Ack=0 -Default Defense
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.772 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1027 -Default Defense
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.772 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1027 -Disallowed Destination IP
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.774 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1028 -Default Defense
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.774 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1028 -Disallowed Destination IP
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.781 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1026 -Default Defense
+
+Apr 27 21:39:54 billion:firewall:info: 3738237.781 Blocked Prot=17, 24.64.211.134:29386 > 81.249.82.4:1026 -Disallowed Destination IP
+
+Apr 27 21:41:40 billion:firewall:info: 3738344.285 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Default Defense
+
+Apr 27 21:41:40 billion:firewall:info: 3738344.286 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Disallowed Destination IP
+
+Apr 27 21:41:43 billion:firewall:info: 3738347.196 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Default Defense
+
+Apr 27 21:41:43 billion:firewall:info: 3738347.196 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Disallowed Destination IP
+
+Apr 27 21:41:49 billion:firewall:info: 3738353.515 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Default Defense
+
+Apr 27 21:41:49 billion:firewall:info: 3738353.516 Blocked Prot=6, 217.157.170.33:25758 > 81.249.82.4:6881, S Seq=2108056792, Ack=0 -Disallowed Destination IP
+
+Apr 27 21:42:15 billion:firewall:info: 3738378.774 Blocked Prot=6, 81.249.110.198:26711 > 81.249.82.4:139, S Seq=818020352, Ack=0 -Default Defense
+
+Apr 27 21:42:15 billion:firewall:info: 3738378.774 Blocked Prot=6, 81.249.110.198:26711 > 81.249.82.4:139, S Seq=818020352, Ack=0 -Disallowed Destination IP
+
+Apr 27 21:45:31 billion:firewall:info: 3738575.401 Blocked Prot=6, 82.85.64.186:2211 > 81.249.82.4:2002, S Seq=-1111031808, Ack=0 -Default Defense
+
+Apr 27 21:45:31 billion:firewall:info: 3738575.401 Blocked Prot=6, 82.85.64.186:2211 > 81.249.82.4:2002, S Seq=-1111031808, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:00:05 billion:firewall:info: 3739449.381 Blocked Prot=6, 81.249.82.4:52246 > 193.251.214.115:110, S Seq=373968690, Ack=0 -Default Defense
+
+Apr 27 22:00:08 billion:firewall:info: 3739452.376 Blocked Prot=6, 81.249.82.4:52246 > 193.251.214.115:110, S Seq=373968690, Ack=0 -Default Defense
+
+Apr 27 22:00:11 billion:firewall:info: 3739455.376 Blocked Prot=6, 81.249.82.4:52246 > 193.251.214.115:110, S Seq=373968690, Ack=0 -Default Defense
+
+Apr 27 22:00:14 billion:firewall:info: 3739458.376 Blocked Prot=6, 81.249.82.4:52246 > 193.251.214.115:110, S Seq=373968690, Ack=0 -Default Defense
+
+Apr 27 22:00:17 billion:firewall:info: 3739461.376 Blocked Prot=6, 81.249.82.4:52246 > 193.251.214.115:110, S Seq=373968690, Ack=0 -Default Defense
+
+Apr 27 22:05:27 billion:ppp:none: Channel Id(0) disconnected after (162 hr 28 min 3 sec)
+Apr 27 22:05:28 billion:im_backend:none: Changed ipwan IP address to 0.0.0.0
+Apr 27 22:08:24 billion:ppp:none: Channel Id(0) connected
+Apr 27 22:08:24 billion:im_backend:none: Changed ipwan IP address to 86.217.29.42
+Apr 27 22:09:23 billion:firewall:info: 3740008.634 Blocked Prot=17, 76.19.17.35:15644 > 86.217.29.42:28880 -Default Defense
+
+Apr 27 22:09:23 billion:firewall:info: 3740008.634 Blocked Prot=17, 76.19.17.35:15644 > 86.217.29.42:28880 -Disallowed Destination IP
+
+Apr 27 22:15:59 billion:firewall:info: 3740407.257 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Default Defense
+
+Apr 27 22:15:59 billion:firewall:info: 3740407.257 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:16:02 billion:firewall:info: 3740410.272 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Default Defense
+
+Apr 27 22:16:02 billion:firewall:info: 3740410.272 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:16:08 billion:firewall:info: 3740416.257 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Default Defense
+
+Apr 27 22:16:08 billion:firewall:info: 3740416.257 Blocked Prot=6, 78.151.122.17:58250 > 86.217.29.42:28880, S Seq=-746468596, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:16:33 billion:firewall:info: 3740441.969 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33438 -Default Defense
+
+Apr 27 22:16:38 billion:firewall:info: 3740446.967 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33439 -Default Defense
+
+Apr 27 22:16:43 billion:firewall:info: 3740451.988 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33440 -Default Defense
+
+Apr 27 22:16:48 billion:firewall:info: 3740456.965 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33441 -Default Defense
+
+Apr 27 22:16:53 billion:firewall:info: 3740461.964 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33442 -Default Defense
+
+Apr 27 22:16:58 billion:firewall:info: 3740466.982 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33443 -Default Defense
+
+Apr 27 22:17:03 billion:firewall:info: 3740471.961 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33444 -Default Defense
+
+Apr 27 22:17:08 billion:firewall:info: 3740476.960 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33445 -Default Defense
+
+Apr 27 22:17:13 billion:firewall:info: 3740481.959 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33446 -Default Defense
+
+Apr 27 22:17:18 billion:firewall:info: 3740486.977 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33447 -Default Defense
+
+Apr 27 22:17:23 billion:firewall:info: 3740491.957 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33448 -Default Defense
+
+Apr 27 22:17:28 billion:firewall:info: 3740496.956 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33449 -Default Defense
+
+Apr 27 22:17:33 billion:firewall:info: 3740501.954 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33450 -Default Defense
+
+Apr 27 22:17:38 billion:firewall:info: 3740506.976 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33451 -Default Defense
+
+Apr 27 22:17:43 billion:firewall:info: 3740511.952 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33452 -Default Defense
+
+Apr 27 22:17:48 billion:firewall:info: 3740516.951 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33453 -Default Defense
+
+Apr 27 22:17:53 billion:firewall:info: 3740521.950 Blocked Prot=17, 192.168.1.10:47328 > 81.253.149.9:33454 -Default Defense
+
+Apr 27 22:18:31 billion:firewall:info: 3740559.767 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Default Defense
+
+Apr 27 22:18:31 billion:firewall:info: 3740559.767 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Disallowed Destination IP
+
+Apr 27 22:18:34 billion:firewall:info: 3740562.611 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Default Defense
+
+Apr 27 22:18:34 billion:firewall:info: 3740562.611 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Disallowed Destination IP
+
+Apr 27 22:18:42 billion:firewall:info: 3740570.818 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Default Defense
+
+Apr 27 22:18:42 billion:firewall:info: 3740570.818 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Disallowed Destination IP
+
+Apr 27 22:19:01 billion:firewall:info: 3740590.069 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Default Defense
+
+Apr 27 22:19:01 billion:firewall:info: 3740590.069 Blocked Prot=17, 89.6.139.118:6889 > 86.217.29.42:28880 -Disallowed Destination IP
+
+Apr 27 22:21:51 billion:firewall:info: 3740760.303 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Default Defense
+
+Apr 27 22:21:51 billion:firewall:info: 3740760.303 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:21:54 billion:firewall:info: 3740763.318 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Default Defense
+
+Apr 27 22:21:54 billion:firewall:info: 3740763.318 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:21:57 billion:firewall:info: 3740765.573 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33438 -Default Defense
+
+Apr 27 22:22:00 billion:firewall:info: 3740769.254 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Default Defense
+
+Apr 27 22:22:00 billion:firewall:info: 3740769.254 Blocked Prot=6, 84.101.37.80:3401 > 86.217.29.42:35094, S Seq=-390244487, Ack=0 -Disallowed Destination IP
+
+Apr 27 22:22:02 billion:firewall:info: 3740770.571 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33439 -Default Defense
+
+Apr 27 22:22:07 billion:firewall:info: 3740775.570 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33440 -Default Defense
+
+Apr 27 22:22:12 billion:firewall:info: 3740780.569 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33441 -Default Defense
+
+Apr 27 22:22:17 billion:firewall:info: 3740785.568 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33442 -Default Defense
+
+Apr 27 22:22:22 billion:firewall:info: 3740790.567 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33443 -Default Defense
+
+Apr 27 22:22:27 billion:firewall:info: 3740795.566 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33444 -Default Defense
+
+Apr 27 22:22:32 billion:firewall:info: 3740800.565 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33445 -Default Defense
+
+Apr 27 22:22:37 billion:firewall:info: 3740805.584 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33446 -Default Defense
+
+Apr 27 22:22:42 billion:firewall:info: 3740810.562 Blocked Prot=17, 192.168.1.10:47389 > 193.251.214.115:33447 -Default Defense
+
+----------- system log buffer tail --------------
+
+hercules etc # nmap -O 78.151.122.17
+
+
+
+Starting Nmap 4.53 ( http://insecure.org ) at 2008-04-27 22:27 CEST
+Interesting ports on 78.151.122.17:
+Not shown: 1713 filtered ports
+PORT    STATE  SERVICE
+443/tcp closed https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Zoom X5 ADSL modem (97%), D-Link DSL-500G ADSL router (97%), Netgear DM602 ADSL router (97%), ZTE ZXDSL 831 ASDL modem (97%), SCO UnixWare 8.0.0 (96%), Sony PCS-TL30 video conferencing system (94%), HP 4200 PSA (Print Server Appliance) model J4117A (94%), Linux 2.6.20 (Ubuntu 7.04 server, x86) (94%), Linux 2.6.9 (94%), HP ProLiant BL p-Class C-Gbe2 switch (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://insecure.org/nmap/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.903 seconds
+
+rcules etc #
+hercules etc # traceroute 81.253.149.9
+traceroute to dns-adsl-gpe3-m.orange.fr (81.253.149.9), 30 hops max, 38 byte packets
+ 1  billion (192.168.1.254)  2.351 ms  2.461 ms  2.466 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  *^C
+hercules etc # traceroute 193.251.214.115
+traceroute to pop.laposte.net (193.251.214.115), 30 hops max, 38 byte packets
+ 1  billion (192.168.1.254)  2.343 ms  2.536 ms  3.655 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+^C
+hercules etc #
+hercules etc # traceroute 81.249.82.4
+traceroute to AVelizy-155-1-27-4.w81-249.abo.wanadoo.fr (81.249.82.4), 30 hops max, 38 byte packets
+ 1  billion (192.168.1.254)  2.435 ms  2.526 ms  2.455 ms
+ 2  *^C
+hercules etc # traceroute 76.19.17.35
+traceroute to c-76-19-17-35.hsd1.nh.comcast.net (76.19.17.35), 30 hops max, 38 byte packets
+ 1  billion (192.168.1.254)  2.481 ms  2.454 ms  2.500 ms
+ 2  * * *
+^C
+hercules etc # traceroute 86.217.29.42
+traceroute to AVelizy-155-1-54-42.w86-217.abo.wanadoo.fr (86.217.29.42), 30 hops max, 38 byte packets
+^C
+
+Log d'erreurs (Temps écoulé (secs) depuis le dernier redémarrage) 
+
+  Quand  Processus  Log d'erreurs
+  1205605039  im_backend  dot1x_wpa:Station 00:16:6f:9b:0d:3c EAPOL-Key MIC failure
+  1206406626  im_backend  dot1x_wpa:Received Michael MIC failure report from 00:16:6f:9b:0d:3c
+  1206406909  im_backend  dot1x_wpa:Received Michael MIC failure report from 00:16:6f:9b:0d:3c
+  1206743129  im_backend  dot1x_wpa:Received Michael MIC failure report from 00:16:6f:9b:0d:3c
+  1206743184  im_backend  dot1x_wpa:Received Michael MIC failure report from 00:16:6f:9b:0d:3c
+  1206743185  im_backend  dot1x_wpa:1152579:Taking TKIP countermeasures
+  1206743246  im_backend  dot1x_wpa:TKIP countermeasures finished
+  1206822989  webserver  webserver:Error adding NAT reserved mapping pool emwebigd1
+  1206822989  webserver  webserver:Error adding NAT reserved mapping pool emwebigd3
+  1206896905  im_backend  dot1x_wpa:Station 00:16:6f:9b:0d:3c EAPOL-Key MIC failure
+  1206916995  im_backend  dot1x_wpa:Station 00:16:6f:9b:0d:3c EAPOL-Key MIC failure
+  1206919407  im_backend  dot1x_wpa:Station 00:16:6f:9b:0d:3c EAPOL-Key MIC failure
+  1207775511  webserver  webserver:Error adding NAT reserved mapping pool emwebigd7
+  1208471416  im_backend  dot1x_wpa:Received Michael MIC failure report from 00:16:6f:9b:0d:3c
